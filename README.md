@@ -1,2 +1,2 @@
-# Jupyter-First-Python-Program
+# Python Exercises
 Python: Types, Expressions, Variables
